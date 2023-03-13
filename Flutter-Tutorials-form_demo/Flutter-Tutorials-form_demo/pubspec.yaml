@@ -1,0 +1,18 @@
+name: Application for SDE Intern role for Cohort Q2 2023
+description: A new Flutter project.
+
+
+version: 1.0.0+1
+
+
+
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.0.8
+  flutter_form_builder: ^6.0.0
+  flutter_quill: ^2.0.0
+
+
